@@ -35,7 +35,7 @@ function setup(){
 
     bird = new Bird(100,100);
 
-    platfrom = new Ground(150,305,300,170);
+    platfrom = new Ground(155,305,300,170);
 
 }
 
